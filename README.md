@@ -31,14 +31,17 @@ It helped me understand how voice interfaces and real-world automation can work 
 ## 📂 Folder Structure
 
 voice-assistant/
+
 ├── app.py           # Main program logic
 
 ├── actions.py       # Handles opening apps
 
 ├── logs/            # Command logs stored by date
+
 │   └── log_YYYY-MM-DD.txt
 
 ├── selfies/         # Saved selfies (numbered automatically)
+
 │   └── selfie_N.jpg
 
 ├── README.md        # Project documentation
