@@ -2,6 +2,9 @@
 
 A voice-enabled desktop assistant built with Python that responds to natural voice commands like **"take my selfie"**, **"open notepad"**, or **"open WhatsApp"**, and performs real actions such as taking a photo using your webcam, opening applications, and logging commands.
 
+🧪 _This was my first attempt at testing various Python libraries like `speech_recognition`, `pyttsx3`, `opencv-python`, and more to build a practical, interactive project._  
+It helped me understand how voice interfaces and real-world automation can work together using simple logic and external packages.
+
 ---
 
 ## 🚀 Features
@@ -28,13 +31,18 @@ A voice-enabled desktop assistant built with Python that responds to natural voi
 ## 📂 Folder Structure
 
 voice-assistant/
-├── app.py # Main program logic
-├── actions.py # Handles opening apps
-├── logs/ # Command logs stored by date
-│ └── log_YYYY-MM-DD.txt
-├── selfies/ # Saved selfies (numbered automatically)
-│ └── selfie_N.jpg
-├── README.md
+├── app.py           # Main program logic
+
+├── actions.py       # Handles opening apps
+
+├── logs/            # Command logs stored by date
+│   └── log_YYYY-MM-DD.txt
+
+├── selfies/         # Saved selfies (numbered automatically)
+│   └── selfie_N.jpg
+
+├── README.md        # Project documentation
+
 
 ---
 
