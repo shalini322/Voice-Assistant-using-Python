@@ -7,6 +7,9 @@ It helped me understand how voice interfaces and real-world automation can work 
 
 ---
 
+Watch Demo video here : https://drive.google.com/file/d/1sF1exrBDbFEfHX9VoryTo3Bvu6UHyxaz/view?usp=sharing
+(Turn up your volume while watching. The applications didn't show in the recording due to security purposes of the system but it works fine.) 
+
 ## 🚀 Features
 
 - 🎤 Voice command recognition using your microphone
